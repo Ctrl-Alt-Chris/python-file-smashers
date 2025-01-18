@@ -1,4 +1,3 @@
-Yes, the script can be modified to process all PDFs in a specific folder. The updated script will:
 
 1. **Scan a folder for PDFs:** Use the `os` module to list all files in the folder and filter for `.pdf` files.
 2. **Process each PDF:** Run the `pdf_to_json` function for each PDF found in the folder.
